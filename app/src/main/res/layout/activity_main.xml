@@ -114,7 +114,7 @@
         android:layout_height="wrap_content"
         android:layout_marginRight="10dp"
         android:layout_marginLeft="10dp"
-        tools:text="5"
+        tools:text="0"
         app:layout_constraintBottom_toBottomOf="@+id/share"
         app:layout_constraintTop_toTopOf="@+id/share"
         app:layout_constraintStart_toEndOf="@id/share"
